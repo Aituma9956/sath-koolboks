@@ -59,4 +59,4 @@ jobs:
           app-name: 'az-ai-servicedesk-agent-frontend-eastus'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_040C98F6DC8345BCB5604C048F95226C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_354CED9AC4524A26AAE474849FE6D201 }}
